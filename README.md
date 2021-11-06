@@ -14,7 +14,7 @@
 
 ![snake gif](https://github.com/danroyal001/danroyal001/blob/output/github-contribution-grid-snake.gif)
 
-<a href="https://app.daily.dev/Danroyal001"><img src="https://api.daily.dev/devcards/fcb92387f1534f9da0e07233b9c1437c.png?r=kgj" width="400" alt="Daniel Effiong (Danroyal)'s Dev Card"/></a>
+<a href="https://app.daily.dev/Danroyal001"><img src="https://api.daily.dev/devcards/fcb92387f1534f9da0e07233b9c1437c.png?r=3rj" width="400" alt="Daniel Effiong (Danroyal)'s Dev Card"/></a>
 
 <!--
 **Danroyal001/Danroyal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
