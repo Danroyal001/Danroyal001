@@ -9,7 +9,7 @@
 - 🎓 studying computer science @ Uniuyo, Nigeria.
 - 💻 working as a software developer
 - 🚀 as a side project i work on "webspeed". A CMS and framework build with node.js
-- 🌱 I’m currently learning Jetpack compose, webgl, python and rust.
+- 🌱 I’m currently learning Jetpack compose, webgl and rust.
 
 
 ![snake gif](https://github.com/danroyal001/danroyal001/blob/output/github-contribution-grid-snake.gif)
