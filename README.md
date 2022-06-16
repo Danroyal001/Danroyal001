@@ -22,7 +22,7 @@
 <a href="https://app.daily.dev/Danroyal001"><img src="https://api.daily.dev/devcards/fcb92387f1534f9da0e07233b9c1437c.png?r=3rj" width="400" alt="Daniel Effiong (Danroyal)'s Dev Card"/></a>
 
 ## My Skyline
-[![My Skyline](https://skyline.github.com/danroyal001/2021?annotation0=2021-05-03,2021-05-03,Highest%20contribution%20so%20far%20for%20the%20year)](https://skyline.github.com/danroyal001/2021?annotation0=2021-05-03,2021-05-03,Highest%20contribution%20so%20far%20for%20the%20year)
+View my 3D skyline [here](https://skyline.github.com/danroyal001/2021?annotation0=2021-05-03,2021-05-03,Highest%20contribution%20so%20far%20for%20the%20year)
 
 <!--
 **Danroyal001/Danroyal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
