@@ -10,7 +10,7 @@
 > 😄 Pronouns: Him, He
 > ____________________________
 
-- 📫 reach me via: [danroyaleffiong@gmail.com](mailto:danroyaleffiong@gmail.com), [mobile: +2348163277144](tel:+2348163277144), [Twitter](https://bit.ly/daniel-effiong-twitter), [Linkedin](https://bit.ly/daniel-effiong-linkedin), [Facebook](https://facebook.com/danroyal.effiong.7), [danieleffiong.com - powered by HashNode](https://danieleffiong.com)
+- 📫 reach me via: [danroyaleffiong@gmail.com](mailto:danroyaleffiong@gmail.com), [mobile: +234 812 290 9461](tel:+2348122909461), [Twitter](https://bit.ly/daniel-effiong-twitter), [Linkedin](https://bit.ly/daniel-effiong-linkedin), [Facebook](https://facebook.com/danroyal.effiong.7), [danieleffiong.com - powered by HashNode](https://danieleffiong.com)
 - 🎓 studying computer science @ Uniuyo, Nigeria.
 - 💻 working as a software developer
 - 🚀 as a side project i work on "webspeed". A CMS and framework build with node.js
