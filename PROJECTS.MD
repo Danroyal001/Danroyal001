@@ -4,5 +4,5 @@
  * https://oyald.com
  * https://iaccount.me
  * https://igamer.me
- * Trovi.shop (work in progress)
+ * https://trovi.shop (work in progress)
 
