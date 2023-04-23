@@ -16,6 +16,8 @@
 - 🚀 as a side project i work on "webspeed". A CMS and framework build with node.js
 - 🌱 My Linkedin: https://www.linkedin.com/in/daniel-effiong/
 - 🌱 My Linktree: https://www.linktr.ee/danieleffiong
+- 🌱 https://github.com/Danroyal001/Danroyal001/blob/main/PROJECTS.MD
+- 🌱 Linktree: https://linktr.ee/danieleffiong
 
 
 ![snake gif](https://github.com/danroyal001/danroyal001/blob/output/github-contribution-grid-snake.gif)
