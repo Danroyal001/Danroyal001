@@ -1,12 +1,15 @@
-## Projects I've worked on
+## Publicly available projects I've worked on
 
  * https://adbirt.com
  * https://oyald.com
- * https://iaccount.me
  * https://igamer.me
- * https://trovi.shop
+ * [Treeviah](https://github.com/GDG-Eket/treeviah-mobile)
 
 ---
 
-[My linktree](https://linktr.ee/danieleffiong)
+Others are private or NDA-Bound
+
+---
+
+[My Portfolio](https://linktr.ee/danieleffiong)
 
