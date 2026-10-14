@@ -1,6 +1,7 @@
 
 Holla!
+I'm Daniel Effiong, but you can call me SigmaDev
 
-danieleffiong.com
+My Portfilio: danieleffiong.com
 
 Find my projects [here](./PROJECTS.MD)
